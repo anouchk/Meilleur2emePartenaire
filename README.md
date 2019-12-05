@@ -2,4 +2,4 @@
 
 Avec la multiplication du nombre de tutelles d'un laboratoire, les universités partagent de plus en plus le pilotage des labos CNRS avec, outre le CNRS, d'autres organismes de recherche, ou des écoles d'ingénieurs ou d'autres universités.
 
-L'idée est ici de repérer **l'établissement le plus souvent associé à un autre, après le CNRS, dans leurs unités de recherche CNRS communes.
+L'idée est ici de repérer **l'établissement le plus souvent associé à un autre, après le CNRS, dans leurs unités de recherche CNRS communes.**
